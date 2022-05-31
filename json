@@ -1,18 +1,4 @@
 {
-    "iFVersion": "",
-    "param": [{
-        "params":[{
-        "paramKey":"exInterval",
-        "paramValue":"100"
-    },
-    {
-        "paramKey":"succInterval",
-        "paramValue":"100"
-    }
-    ]
-    }],
-    "ret":"1",
-    "retInfo":"",
     "updateinfo": [{
         "issystem":1,
         "packagesize":"",
